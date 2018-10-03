@@ -1,0 +1,4 @@
+rafts: no
+supports: no
+resolution: any
+infill: any
