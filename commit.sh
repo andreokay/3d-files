@@ -1,3 +1,3 @@
-git add -u
+git add -u *
 git commit -m "updated"
 git push
