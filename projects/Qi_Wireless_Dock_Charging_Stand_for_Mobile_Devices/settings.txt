@@ -1,0 +1,4 @@
+rafts: no
+supports: no
+resolution: 0.2
+infill: 35%
