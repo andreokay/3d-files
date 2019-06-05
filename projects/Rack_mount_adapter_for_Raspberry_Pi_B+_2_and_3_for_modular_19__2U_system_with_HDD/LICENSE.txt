@@ -1,0 +1,3 @@
+Rack mount adapter for Raspberry Pi B+, 2 and 3 for modular 19&quot; 2U system with HDD (https://www.thingiverse.com/thing:2894571) by Hessenpower is licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/3.0/
+
